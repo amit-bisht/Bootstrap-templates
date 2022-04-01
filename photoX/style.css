@@ -1,0 +1,20 @@
+/* header */
+header{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.5)),url("images/background.jpg") no-repeat center center / cover;
+}
+
+/* end of header */
+/* navbar */
+/* end of navbar */
+/* banner */
+.banner{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    /* transform: translate(-50%,-50%); */
+    transition: all 0.5s;
+    
+  
+}
+/* end of banner */

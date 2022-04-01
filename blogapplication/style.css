@@ -1,0 +1,40 @@
+body{
+    font-family: "Domine",serif;
+}
+/* navbar */
+.top-navbar{
+   background-color: #fff;
+   box-shadow: 2px 2px 5px #3292a6;
+   opacity:0.9; 
+}
+.top-navbar a{
+    color: #000;
+}
+/* end of navbar */
+
+.blog-card{
+    border: none;
+}
+.blog-image{
+    border: none;
+    border-radius: none;
+}
+.blog-info{
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+}
+.blog-excerpt:hover{
+    color: red;
+}
+.blogs-heading{
+    font-family: 'Barlow Semi Condensed', sans-serif ,'Montserrat', sans-serif;
+    font-size: 40px;
+    display: inline;
+    border-bottom: 3px solid #000;
+    padding-bottom: 3px;
+}
+.footer{
+    background-color: #000;
+    color: white;
+    padding: 10px 0px;
+}
